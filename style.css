@@ -2,3 +2,21 @@ header{
     background-color: darkgray;
     color: white
 }
+
+.balls {
+    width: 8%;
+}
+
+.titulo {
+    display:inline;
+    padding: 0 0 30px 0;
+}
+
+.search-box {
+    position: absolute;
+    top: 5%;
+    left: 92%;
+    transform: translate(-95, -8);
+    background: 
+
+}
